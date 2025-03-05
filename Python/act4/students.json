@@ -1,0 +1,29 @@
+[
+    {
+        "id": "567895",
+        "name": [
+            "Christine",
+            "Tibay"
+        ],
+        "class_standing": 90.0,
+        "major_exam": 100.0
+    },
+    {
+        "id": "124585",
+        "name": [
+            "Apple",
+            "Bartolome"
+        ],
+        "class_standing": 78.0,
+        "major_exam": 29.0
+    },
+    {
+        "id": "123456",
+        "name": [
+            "Vian",
+            "Tibay"
+        ],
+        "class_standing": 45.0,
+        "major_exam": 78.0
+    }
+]
