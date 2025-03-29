@@ -1,0 +1,86 @@
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 1
+Enter Item ID: 1
+Enter Item Name: 2
+Enter Item Description: asd
+Enter Item Price: 21
+Item added successfully!
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 2
+ID: 1 | Name: 2 | Description: asd | Price: $21.00
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 1
+Enter Item ID: 2
+Enter Item Name: 3
+Enter Item Description: 21asd
+Enter Item Price: 3
+Item added successfully!
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 3
+Enter Item ID to update: 1
+Enter new name (leave blank to keep current):  
+Enter new description (leave blank to keep current):
+Enter new price (leave blank to keep current): 34
+Item updated successfully!
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 2
+ID: 1 | Name: 2 | Description: asd | Price: $34.00
+ID: 2 | Name: 3 | Description: 21asd | Price: $3.00
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 4
+Enter Item ID to delete: 1
+Item deleted successfully!
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 2
+ID: 2 | Name: 3 | Description: 21asd | Price: $3.00
+
+Item Management System
+1. Create Item
+2. View Items
+3. Update Item
+4. Delete Item
+5. Exit
+Enter your choice: 5
+Exiting... Goodbye!
+PS C:\Users\96597\Documents\FEU tech files\2-year\intgrative prog and tech\Python\Python> 
